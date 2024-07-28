@@ -64,7 +64,7 @@ def who_is_api():
 
 RED = "\33[91m"
 BLUE = "\33[94m"
-GREEN = "\033[32m"  # Use this green color code
+GREEN = "\033[32m"  # Using the Green Banner
 YELLOW = "\033[93m"
 PURPLE = '\033[0;35m'
 CYAN = "\033[36m"
