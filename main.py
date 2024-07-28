@@ -6,11 +6,11 @@ import ipaddress
 import argparse
 import socket
 import nmap
+import re 
 from tabulate import tabulate
 from concurrent.futures import ThreadPoolExecutor
 from colorama import init, Fore
 from termcolor import colored
-import re
 
 # Retrieve the Ipinfo access token from environment variables
 # How to set environment variable in cmd : setx IPINFO_ACCESS_TOKEN "your_ipinfo_access_token"
