@@ -61,7 +61,7 @@ cd xray-network-toolkit</code></pre>
         </section>
         <section id="license">
             <h2>License</h2>
-            <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
+            <p>This project is licensed under the GPL License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
         </section>
         <section id="disclaimer">
             <h2>Disclaimer</h2>
