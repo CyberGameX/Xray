@@ -51,7 +51,7 @@ cd xray-network-toolkit</code></pre>
         </section>
         <section id="screenshots">
             <h2>Screenshots</h2>
-            <img src="https://via.placeholder.com/800x400.png?text=Main+Menu" alt="Main Menu">
+            <img src="https://https://github.com/CyberGameX/xray-network-toolkit/blob/main/xray_main_menu.png" alt="Main Menu">
             <img src="https://via.placeholder.com/800x400.png?text=Port+Scanner" alt="Port Scanner">
         </section>
         <section id="contributing">
